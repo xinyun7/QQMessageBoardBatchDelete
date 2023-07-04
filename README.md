@@ -1,0 +1,2 @@
+# QQMessageBoardBatchDelete
+python执行删除QQ空间留言板内容

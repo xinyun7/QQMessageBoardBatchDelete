@@ -35,7 +35,7 @@ logger = get_logger(__file__)
  
 def work(browser):
     #手机扫码登陆
-    qq=550343586
+    qq=***
     browser.get('https://user.qzone.qq.com/{}/infocenter?via=toolbar'.format(qq))
     # 暂停用于扫码登录的时间，可适当增加或缩短
     time.sleep(15)

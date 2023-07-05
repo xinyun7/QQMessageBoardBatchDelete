@@ -11,8 +11,8 @@ python执行删除QQ空间留言板内容
 
 ## 准备
 ### 下载安装chromedriver
-    根据自己本地的chrome浏览器版本，下载对应的版本chromeDriver，如下：
-    ![image](https://github.com/xinyun7/QQMessageBoardBatchDelete/blob/master/image.png)
+根据自己本地的chrome浏览器版本，下载对应的版本chromeDriver，如下：
+![image](https://github.com/xinyun7/QQMessageBoardBatchDelete/blob/master/image.png)
 
 ### 安装依赖包
 ```
